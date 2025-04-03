@@ -2,6 +2,7 @@
 
 # Challenge yourself with this fun and interactive Simon Says game! Watch the sequence, memorize it, and repeat it correctly. With every round, the difficulty increases—how far can you go?
 
+
 🔹 Classic Simon game mechanics
 🔹 Engaging sound effects & smooth animations
 🔹 Fully responsive & visually appealing design
@@ -10,7 +11,9 @@
 💡 Play it now and see if you have what it takes to master the sequence!
 🎮 Simon Button Game - A Fun Memory Challenge!
 
+
 Test your memory and reflexes with this Simon Button Game! Follow the sequence of colors and sounds, and see how far you can go. Built using HTML, CSS, and JavaScript, this interactive game challenges your ability to remember and repeat patterns!
+
 ---
 
 # ✨ Features
@@ -40,15 +43,13 @@ Test your memory and reflexes with this Simon Button Game! Follow the sequence o
 # 💡 Tip: Pay close attention to the sequence and try to remember the pattern!
 
 
-# 🛠️ Setup Instructions
+# 🛠️ Setup Instructions: 
 
-💾 Clone this repository:
+----> 💾 Clone this repository:
 
 git clone https://github.com/your-username/simon-button-game.git
 
-# 📂 Navigate to the project folder:
-
-# cd simon-button-game
+----> cd simon-button-game
 
 🌐 Open index.html in your browser and start playing!
 
@@ -56,7 +57,10 @@ git clone https://github.com/your-username/simon-button-game.git
 
 # 🎥 Demo
 
-📌 Watch the Game in Action! (Add a GIF or screenshot here)
+📌 Watch the Game in Action! (Add a GIF or screenshot here):
+
+![Simon-Button-Game-Demo](https://github.com/user-attachments/assets/32a52a5b-5eed-425e-9371-1365166c187c)
+
 
 # 🔧 Customization Ideas
 
